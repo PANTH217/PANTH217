@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/PANTH217">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Engineering;SVKM's+NMIMS+Shirpur;Technical+Team+Lead+@+Code+Wavers;AI+%26+Full-Stack+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Engineering;SVKM's+NMIMS+Shirpur;Technical+Team+Lead;AI+%26+Full-Stack+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@ I am a B.Tech student in **Computer Engineering** at **SVKM's NMIMS, Mukesh Pate
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Engineering at SVKM's NMIMS (2024 - 2028).
 - 📍 **Location:** Valsad, Gujarat, India.
-- 🌊 **Hackathon Team:** Technical Team Lead of **Code Wavers** 🌊.
+- 🏆 **Hackathons:** Technical Team Lead (leading teams of 2-5 to build prototype solutions).
 - 🔭 **Current Focus:** Developing real-time AI computer vision models and full-stack web applications.
 - 🌱 **Learning:** Advanced data structures and algorithms, deep learning model optimization, and cloud architecture.
 - 💬 **Ask me about:** Python, C++, React, Flask, and Streamlit.
