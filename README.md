@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/PANTH217">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Engineering;SVKM's+NMIMS+Shirpur;Technical+Team+Lead;AI+%26+Full-Stack+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=46E3B7&center=true&vCenter=true&width=550&lines=B.Tech+Computer+Engineering;SVKM's+NMIMS+Shirpur;AI+%26+Full-Stack+Web+Developer;Technical+Team+Lead+@+Hackathons" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,99 +13,97 @@
   <a href="mailto:panthhaveliwala@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://github.com/PANTH217" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a B.Tech student in **Computer Engineering** at **SVKM's NMIMS, Mukesh Patel School of Technology Management & Engineering (MPSTME)**, Shirpur Campus. I love developing smart AI models, designing clean web applications, and building security tools.
+I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's NMIMS (Mukesh Patel School of Technology Management & Engineering)**, Shirpur Campus. I specialize in building AI/ML applications, full-stack systems, and cybersecurity solutions. I frequently lead technical teams in hackathons, turning complex problems into functional, high-performance software.
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Engineering at SVKM's NMIMS (2024 - 2028).
 - 📍 **Location:** Valsad, Gujarat, India.
-- 🏆 **Hackathons:** Technical Team Lead (leading teams of 2-5 to build prototype solutions).
-- 🔭 **Current Focus:** Developing real-time AI computer vision models and full-stack web applications.
-- 🌱 **Learning:** Advanced data structures and algorithms, deep learning model optimization, and cloud architecture.
-- 💬 **Ask me about:** Python, C++, React, Flask, and Streamlit.
-- 📫 **How to reach me:** [panthhaveliwala@gmail.com](mailto:panthhaveliwala@gmail.com) | [LinkedIn](https://www.linkedin.com/in/panth-haveliwala-06811131a)
+- 🔭 **Current Focus:** Developing real-time computer vision models, optimizing edge AI systems, and building scalable full-stack web applications.
+- 🌱 **Learning:** Cloud architecture patterns, advanced system design, and large language model integration.
+- ⚙️ **Approach:** Modular clean code, security-first development, and agile prototyping.
+- 📫 **Contact:** [panthhaveliwala@gmail.com](mailto:panthhaveliwala@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/panth-haveliwala-06811131a)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Professional Skills & Tech Stack
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/sql-%23075c84.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="left">
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
-<p align="left">
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages</h4>
+      <code>Python</code>, <code>C++</code>, <code>C</code>, <code>Java</code>, <code>JavaScript (ES6+)</code>, <code>SQL</code>, <code>HTML5</code>, <code>CSS3</code>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🚀 Frameworks & Web Technologies</h4>
+      <code>React</code>, <code>Flask</code>, <code>Django</code>, <code>Streamlit</code>, <code>Flutter</code>, <code>Node.js</code>, <code>Express.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🧠 Machine Learning & Data Analytics</h4>
+      <code>TensorFlow</code>, <code>TensorFlow Lite</code>, <code>Scikit-learn</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Matplotlib</code>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🛠️ Databases, Cloud & Developer Tools</h4>
+      <code>MongoDB</code>, <code>Firebase</code>, <code>MySQL</code>, <code>Git & GitHub</code>, <code>Vercel</code>, <code>Render</code>, <code>VS Code</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-#### 🛡️ GuardianAI: Real-Time Fall Detection System
-* An AI-driven safety system that monitors and detects falls in real-time, designed to enhance elderly care.
-* **Tech Stack:** Python, React, Flask, TensorFlow Lite, Firebase Cloud Messaging (FCM).
-* **Key Features:** Fast object/motion analysis models, customized React web portal, and real-time instant mobile push notifications.
+#### 🛡️ GuardianAI: Real-Time Fall Detection System (Jan 2026)
+*An intelligent AI safety system designed to monitor and detect falls in real-time to protect elderly and vulnerable individuals.*
+- 💡 **Problem Solved:** Immediate detection and rapid alert routing for fall events to minimize medical response times.
+- 🛠️ **Technical Implementation:** Built a lightweight neural network deployed with **TensorFlow Lite** on the backend. Integrates a **Flask** backend api with a responsive **React** dashboard, using **Firebase Cloud Messaging (FCM)** for instantaneous push notifications.
+- 📦 **Tech Stack:** `Python` | `React` | `Flask` | `TensorFlow Lite` | `Firebase FCM`
 
-#### 🛡️ Cloud Login Anomaly Detection
-* An intelligent log monitoring tool that automatically catches suspicious account logins and potential hacks.
-* **Tech Stack:** Python, Scikit-learn, AI.
-* **Key Features:** Geofencing calculations, impossible travel detection, and automated user risk score mapping. Developed for the DA-IICT Hackathon.
+#### 🛡️ Cloud Login Anomaly Detection (Sep 2025)
+*An AI-driven cybersecurity system designed to identify suspicious login attempts and prevent unauthorized access in cloud environments.*
+- 💡 **Problem Solved:** Detecting account takeovers and automated dictionary attacks by analyzing access logs.
+- 🛠️ **Technical Implementation:** Utilized **Scikit-learn** to build classification models that analyze geolocation profiles, IP reputations, and login timestamps. Implemented geofencing rules and "impossible travel" algorithms to dynamically score session risk.
+- 🏆 *Developed as a project for the DA-IICT Hackathon.*
+- 📦 **Tech Stack:** `Python` | `Scikit-learn` | `Pandas` | `AI Classifier Models`
 
-#### 📍 LOC-TRACER: Location Tracking Dashboard
-* A map visualization tool displaying and plotting location history data records.
-* **Tech Stack:** Python, Streamlit, Folium, Pandas.
-* **Key Features:** Automated GPS data parsing, customized map pins, and real-time interactive mapping.
+#### 📍 LOC-TRACER: Location Tracking Dashboard (Oct 2025)
+*An interactive GPS mapping and track analysis dashboard for spatial record processing.*
+- 💡 **Problem Solved:** Visualizing multi-point coordinate logs over time in a clean, user-friendly interface.
+- 🛠️ **Technical Implementation:** Designed a **Streamlit** user interface to upload log sheets. Handled coordinate cleaning and indexing with **Pandas**, mapping coordinates onto interactive visual layers using **Folium**.
+- 📦 **Tech Stack:** `Python` | `Streamlit` | `Folium` | `Pandas`
 
-#### 🌿 Plant Disease Detection System
-* A computer vision model identifying crop leaves issues for early diagnosis.
-* **Tech Stack:** Python, TensorFlow, CNN.
-* **Key Features:** Leaf image feature extraction, category prediction, and optimized model metrics for edge deployment.
+#### 🌿 Plant Disease Detection System (Mar 2025)
+*A portable, computer-vision agricultural model identifying crop leaf health abnormalities.*
+- 💡 **Problem Solved:** Helping farmers identify crop diseases early without needing immediate agricultural expert visits.
+- 🛠️ **Technical Implementation:** Configured a **Convolutional Neural Network (CNN)** using **TensorFlow/Keras** trained on crop leaf databases. Tuned convolutional layers, pooling, and dropout weights to maximize classification accuracy.
+- 📦 **Tech Stack:** `Python` | `TensorFlow` | `Keras` | `CNN` | `OpenCV`
 
-#### 🎬 Movie Recommendation System
-* An interactive recommendation engine suggest items based on movie similarities.
-* **Tech Stack:** Python, Streamlit, Scikit-learn.
-* **Key Features:** TF-IDF calculation vectorization and search retrieval GUI.
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🥇 **Ranked 1st** in the SVKM's NMIMS Shirpur Campus B.Tech CE batch (2024-2028) for the 3rd semester with a **9.41 GPA** (Overall CGPA: **8.54/10**).
-- 🏆 **Top 3 Finish** in the Inter-College Hackathon 2024-2025.
-- 📜 **NPTEL Certification:** Successfully certified in *Data Structures and Algorithms* (Nov 2025).
+#### 🎬 Movie Recommendation System (Mar 2025)
+*A content-based filtering system matching user profiles with movies from large databases.*
+- 💡 **Problem Solved:** Solving the cold start problem and supplying highly relevant matching based on movie descriptions.
+- 🛠️ **Technical Implementation:** Utilized **TF-IDF Vectorization** and **Cosine Similarity** algorithms to find semantic similarities between movie tags. Wrapped the system in an interactive **Streamlit** web app.
+- 📦 **Tech Stack:** `Python` | `Streamlit` | `Scikit-learn` | `TF-IDF`
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Academic Achievements & Certifications
+
+- 🥇 **Batch Topper:** Ranked **First** in the SVKM's NMIMS Shirpur Campus B.Tech CE batch (2024-2028) in the 3rd semester with a **9.41 GPA** (Overall CGPA: **8.54/10**).
+- 🏆 **Hackathon Leader:** Led teams of 2–5 members in multiple college-level and inter-college hackathons, securing a **Top 3 finish** in the Inter-College Hackathon (2024-2025).
+- 📜 **NPTEL Certification:** Successfully completed and certified in *Data Structures and Algorithms* (Nov 2025).
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PANTH217&show_icons=true&theme=tokyonight&hide_border=true" alt="Panth's GitHub Stats" width="48%" />
