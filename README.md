@@ -97,12 +97,6 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 - 🛠️ **Technical Implementation:** Designed a **Streamlit** user interface to upload log sheets. Handled coordinate cleaning and indexing with **Pandas**, mapping coordinates onto interactive visual layers using **Folium**.
 - 📦 **Tech Stack:** `Python` | `Streamlit` | `Folium` | `Pandas`
 
-#### 🌿 Plant Disease Detection System (Mar 2025)
-*A portable, computer-vision agricultural model identifying crop leaf health abnormalities.*
-- 💡 **Problem Solved:** Helping farmers identify crop diseases early without needing immediate agricultural expert visits.
-- 🛠️ **Technical Implementation:** Configured a **Convolutional Neural Network (CNN)** using **TensorFlow/Keras** trained on crop leaf databases. Tuned convolutional layers, pooling, and dropout weights to maximize classification accuracy.
-- 📦 **Tech Stack:** `Python` | `TensorFlow` | `Keras` | `CNN` | `OpenCV`
-
 #### 🎬 Movie Recommendation System (Mar 2025)
 *A content-based filtering system matching user profiles with movies from large databases.*
 - 💡 **Problem Solved:** Solving the cold start problem and supplying highly relevant matching based on movie descriptions.
