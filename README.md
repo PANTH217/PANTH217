@@ -119,6 +119,20 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PANTH217&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+#### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PANTH217&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+#### 🎮 Contribution Snake Game
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PANTH217/PANTH217/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PANTH217/PANTH217/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PANTH217/PANTH217/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 ### ✍️ Random Dev Quote
