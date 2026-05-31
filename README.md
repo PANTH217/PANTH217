@@ -39,30 +39,40 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 
 ---
 
-### 🛠️ Professional Skills & Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Languages</h4>
-      <code>Python</code>, <code>C++</code>, <code>C</code>, <code>Java</code>, <code>JavaScript (ES6+)</code>, <code>SQL</code>, <code>HTML5</code>, <code>CSS3</code>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🚀 Frameworks & Web Technologies</h4>
-      <code>React</code>, <code>Flask</code>, <code>Django</code>, <code>Streamlit</code>, <code>Flutter</code>, <code>Node.js</code>, <code>Express.js</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🧠 Machine Learning & Data Analytics</h4>
-      <code>TensorFlow</code>, <code>TensorFlow Lite</code>, <code>Scikit-learn</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Matplotlib</code>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🛠️ Databases, Cloud & Developer Tools</h4>
-      <code>MongoDB</code>, <code>Firebase</code>, <code>MySQL</code>, <code>Git & GitHub</code>, <code>Vercel</code>, <code>Render</code>, <code>VS Code</code>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/sql-%23075c84.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left">
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+<p align="left">
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
 
 ---
 
