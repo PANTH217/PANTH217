@@ -1,0 +1,9 @@
+{
+  "board": [
+    [" ", " ", " "],
+    [" ", " ", " "],
+    [" ", " ", " "]
+  ],
+  "status": "playing",
+  "last_move": "Game started! Click a square to play."
+}

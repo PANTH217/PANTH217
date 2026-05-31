@@ -155,7 +155,23 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
   <img src="https://raw.githubusercontent.com/PANTH217/PANTH217/output/github-contribution-grid-snake.gif" alt="github contribution grid snake animation" />
 </p>
 
+---
 
+<!--START_SECTION:tic-tac-toe-->
+### 🎮 Play Tic-Tac-Toe
+Click on any empty square `⬜` to make your move as **⭕**. The bot will respond as **❌**.
+
+| | | |
+| :---: | :---: | :---: |
+| [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+0+0) | [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+0+1) | [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+0+2) |
+| [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+1+0) | [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+1+1) | [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+1+2) |
+| [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+2+0) | [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+2+1) | [⬜](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+2+2) |
+
+**Last Move:** Game started! Click a square to play.
+[🔄 Restart Game](https://github.com/PANTH217/PANTH217/issues/new?title=ttt%3A+restart)
+<!--END_SECTION:tic-tac-toe-->
+
+---
 
 ### ✍️ Random Dev Quote
 <p align="center">
