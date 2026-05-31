@@ -157,6 +157,12 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 
 ---
 
+### 📢 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
