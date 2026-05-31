@@ -126,13 +126,13 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PANTH217&theme=tokyonight" alt="Profile Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PANTH217&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PANTH217&theme=tokyonight" alt="Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PANTH217&theme=tokyonight" alt="Repos Per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PANTH217&theme=tokyonight" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PANTH217&theme=tokyonight" alt="GitHub Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PANTH217&theme=tokyonight" alt="Repos Per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PANTH217&theme=tokyonight" alt="Most Commit Language" width="32%" />
 </p>
 
 #### 📈 Contribution Activity Graph
