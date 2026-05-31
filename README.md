@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=PANTH217&icon=0&color=0" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=PANTH217&color=0077B5" alt="Profile Views" />
   </a>
 </p>
 
@@ -115,23 +115,8 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 
 ### 📊 GitHub Activity & Statistics
 
-#### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PANTH217&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTH217&show_icons=true&theme=tokyonight&hide_border=true" alt="Panth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTH217&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PANTH217&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-#### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PANTH217&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 ---
