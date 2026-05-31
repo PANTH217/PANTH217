@@ -110,6 +110,12 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 - 🥇 **Batch Topper:** Ranked **First** in the SVKM's NMIMS Shirpur Campus B.Tech CE batch (2024-2028) in the 3rd semester with a **9.41 GPA** (Overall CGPA: **8.54/10**).
 - 🏆 **Hackathon Leader:** Led teams of 2–5 members in multiple college-level and inter-college hackathons, securing a **Top 3 finish** in the Inter-College Hackathon (2024-2025).
 - 📜 **NPTEL Certification:** Successfully completed and certified in *Data Structures and Algorithms* (Nov 2025).
+- 🎯 **HackerRank Milestones:** Achieved **5-Star Badges** in both Python and C++ languages.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Python_5_Star-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Python" />
+  <img src="https://img.shields.io/badge/HackerRank-C%2B%2B_5_Star-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank C++" />
+</p>
 
 ---
 
@@ -122,6 +128,15 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 #### 📈 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PANTH217&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+#### 🧊 3D Contribution Calendar
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Panth's 3D Contribution Calendar" src="profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  </picture>
 </p>
 
 #### 🎮 Contribution Snake Game
