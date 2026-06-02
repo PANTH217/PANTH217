@@ -167,5 +167,3 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 <p align="center">
   🌱 <i>"The best way to predict the future is to invent it."</i>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
