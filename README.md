@@ -38,7 +38,6 @@ I am a highly motivated B.Tech student in **Computer Engineering** at **SVKM's N
 - 📫 **Contact:** [panthhaveliwala@gmail.com](mailto:panthhaveliwala@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/panth-haveliwala-06811131a)
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
