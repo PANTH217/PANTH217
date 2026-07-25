@@ -3,7 +3,6 @@
 
 
 
-
 <p align="center">
   <a href="https://github.com/PANTH217">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=46E3B7&center=true&vCenter=true&width=550&lines=B.Tech+Computer+Engineering;SVKM's+NMIMS+Shirpur;AI+%26+Full-Stack+Web+Developer;Technical+Team+Lead+@+Hackathons" alt="Typing SVG" />
